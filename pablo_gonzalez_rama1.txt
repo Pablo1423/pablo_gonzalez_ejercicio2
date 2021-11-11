@@ -1,4 +1,8 @@
 añade lineas
 añade cambios al fichero
+<<<<<<< HEAD
 añade cambios al fichero2
 linea5
+=======
+linea4
+>>>>>>> pablo_gonzalez_rama
